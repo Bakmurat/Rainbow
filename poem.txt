@@ -3,6 +3,7 @@ The rainpow
 purple 
 pink
 orange
+new colors
 blue
 red
 added green
